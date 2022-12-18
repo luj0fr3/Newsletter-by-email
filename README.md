@@ -74,9 +74,9 @@
 					<table width="100%">
 						<tr>
 							<td style="background-color: #4980d2;padding: 8px 0 5px; text-align: center;">
-								<a href="https://www.facebook.com/people/Escuela-Las-Canteras/100057212628975/"><img src="img/white-facebook.png" alt="" width="30"></a>
+								<a href="https://escuelalascanteras.cl/wp/wp-content/uploads/2022/12/white-facebook.png"><img src="https://escuelalascanteras.cl/wp/wp-content/uploads/2022/12/white-facebook.png" alt="" width="45"></a>
 								<!-- <a href="#"><img src="img/white-twitter.png" alt="" width="30"></a>-->
-								<a href="https://www.youtube.com/@canterinoycanterina"><img src="img/white-youtube.png" alt="" width="30"></a>
+								<a href="https://escuelalascanteras.cl/wp/wp-content/uploads/2022/12/white-youtube.png"><img src="https://escuelalascanteras.cl/wp/wp-content/uploads/2022/12/white-youtube.png" alt="" width="45"></a>
 								<!-- <a href="#"><img src="img/white-linkedin.png" alt="" width="30"></a>-->
 								<!-- <a href="#"><img src="img/white-instagram.png" alt="" width="30"></a>-->
 							</td>
@@ -90,8 +90,8 @@
 					<table width="100%">
 						<tr>
 							<td style="text-align: center; padding: 10px;">
-								<a href="https:escuelalascanteras.cl">
-									<img src="https://escuelalascanteras.cl/wp/wp-content/uploads/2022/12/logo.png" alt="Logo" width="500" title="Logo">
+								<a href="#">
+									<img src="" alt="" width="500" title="">
 								</a>
 							</td>
 						</tr>
@@ -101,7 +101,7 @@
 <!-- GIF BANNER IMAGE -->
 			<tr>
 				<td>
-					<a href="#"><img src="https://escuelalascanteras.cl/wp/wp-content/uploads/2022/12/snow.gif" alt="" width="600" style="max-width: 100%;"></a>
+					<a href="#"><img src="https://escuelalascanteras.cl/wp/wp-content/uploads/2022/12/snow2.gif" alt="" width="600" style="max-width: 100%;"></a>
 				</td>
 			</tr>
 <!-- TITLE, TEXT & BUTTON -->
@@ -161,8 +161,19 @@
 							</td>
 						</tr>
 					</table>
+
+					<center><a href="https://www.youtube.com/@canterinoycanterina"><img src="https://escuelalascanteras.cl/wp/wp-content/uploads/2022/12/YouTube-Logo-1277460274.png" alt="" width="100"></a></center>
+
+
 					<div>
-						<p style="color: #484747; font-size: 12px; text-align: center;margin: 30px 0 0">Copyright © 2022 by Informática Las Canteras | Desarrollado por Luis Jofré Pérez</p>
+						<p style="color: #484747; font-size: 12px; text-align: center;margin: 30px 0 0">Escuela Las Canteras, fue fundada el 3 de agosto de 1865, es un establecmiento <br>
+							de Educación General Básica que depende del Servicio Local de Educación Públida de Atacama.<br>
+							Secundino Pérez sin número, Población Las Canteras, comuna de Copiapó, región de Atacama - Chile.
+							Teléfono: 522213454 - correo escuelalascanteras@gmail.com - www.escuelalascanteras.cl<br>
+							
+							Copyright © 2022 by Informática Las Canteras | Desarrollado por Luis Jofré Pérez <br><br><br>
+						
+						</p>
 					</div>
 				</td>
 			</tr>
