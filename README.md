@@ -68,7 +68,7 @@
 <body>
 	<center class="wrapper">
 		<table class="main" width="100%">
-<!-- SOCIAL MEDIA ICONS -->
+<!-- ICONOS REDES SOCIALES -->
 			<tr>
 				<td>
 					<table width="100%">
@@ -84,7 +84,7 @@
 					</table>
 				</td>
 			</tr>
-<!-- LOGO SECTION -->
+<!-- SECCIÓN LOGO -->
 			<tr>
 				<td>
 					<table width="100%">
@@ -98,13 +98,13 @@
 					</table>
 				</td>
 			</tr>
-<!-- GIF BANNER IMAGE -->
+<!-- IMAGEN BANNER GIF -->
 			<tr>
 				<td>
 					<a href="#"><img src="https://escuelalascanteras.cl/wp/wp-content/uploads/2022/12/snow2.gif" alt="" width="600" style="max-width: 100%;"></a>
 				</td>
 			</tr>
-<!-- TITLE, TEXT & BUTTON -->
+<!-- TÍTULO, TEXTO Y BOTÓN -->
 			<tr>
 				<td style="padding-bottom: 80px;">
 					<table width="100%">
@@ -120,12 +120,12 @@
 					</table>
 				</td>
 			</tr>
-<!-- BLUE BORDER -->
+<!-- COLOR BORDE -->
 			<tr>
-				<td height="5" style="background-color: #4980d2;"></td>
+				<td height="5" style="background-color: #0a4091;"></td>
 			</tr>
 			<br>
-<!-- TWO COLUMN SECTION -->
+<!-- SECCIÓN DOS COLUMNAS-->
 			<tr>
 				<td >
 					<table width="100%">
@@ -177,10 +177,10 @@
 					</div>
 				</td>
 			</tr>
-<!-- BLUE BACKGROUND QUOTE -->
+<!-- COLOR DE FONDO -->
 
 
-<!-- FOOTER SECTION -->
+<!-- SECCIÓN PIE DE PÁGINA -->
 
 
 
